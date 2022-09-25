@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+img{
+    width: 40%;
+    margin-top: 3%;
+}
+
+h1,h2,h3{
+    color: white;
+}
